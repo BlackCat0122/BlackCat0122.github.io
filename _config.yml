@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "en-KR"
+title                    : "나는 개발자로소이다."
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+subtitle                 : "이름은 아직 없다."
+name                     : "LEE"
 description              : "An amazing website."
 url                      : "https://BlackCat0122.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
